@@ -1,1 +1,6 @@
-insert into student values(527, 'Rahat', 3.90), (528, 'Rakib', 3.99);
+insert into student values(1, 'Rahat', 16),
+(2, 'Rakib', 20);
+
+-- insert two rows in students table 
+-- row 1, rahat
+-- row 2 , rakib
