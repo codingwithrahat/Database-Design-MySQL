@@ -1,2 +1,2 @@
 create database temp;
--- crate a database name temp 
+-- create a database name temp 
