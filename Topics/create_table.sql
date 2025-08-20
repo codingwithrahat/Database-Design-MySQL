@@ -1,6 +1,10 @@
 create table student(
-    Student_id numeric(20) primary key,
-    Student_name varchar(20),
-    Student_cgpa numeric(3, 2) 
+    id int primary key,
+    name varchar(50),
+    age int not null
     
-);
+    );
+    
+    -- name can be take max 50 char
+    -- primary key means UNIQUE
+    -- not null means this feild can't be null
