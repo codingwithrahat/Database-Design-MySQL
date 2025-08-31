@@ -1,6 +1,5 @@
---Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table.
+select count(name) from instructor;
 
-select count(city) - count(distinct city) from station;
-
--- count() is a aggregate function
--- it give us number of values
+-- COUNT is an aggregate function
+-- Aggregate functions return a single value
+-- COUNT(name) returns the number of instructors (non-NULL names)
