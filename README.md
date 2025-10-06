@@ -1,2 +1,3 @@
 # Database-Design-MySQL
-This repo contains topic-wise SQL implementations, focusing on MySQL and related database concepts.
+This repository contains **topic-wise SQL implementations** in **MySQL**.  
+It includes **solutions to SQL queries** from platforms like **HackerRank** and **LeetCode**.
